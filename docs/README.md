@@ -7,6 +7,7 @@ The Gemstone Logging Library organizes all Gemstone functionality related to log
 
 [![GitHub license](https://img.shields.io/github/license/gemstone/logging?color=4CC61E)](https://github.com/gemstone/logging/blob/master/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/ury75mtaq7tj1sp0?svg=true)](https://ci.appveyor.com/project/ritchiecarroll/logging)
+![CodeQL](https://github.com/gemstone/logging/workflows/CodeQL/badge.svg)
 
 This library includes helpful logging classes like the following:
 
