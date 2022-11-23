@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>Gemstone.Logging</name>
+  </assembly>
+  <members>
+    <member name="T:Gemstone.Logging.Class">
+      <summary>
+            Sample class for new Logging library.
+            </summary>
+    </member>
+    <member name="M:Gemstone.Logging.Class.#ctor">
+      <summary>
+        <markup>
+          <include item="SMCAutoDocConstructor">
+            <parameter>Gemstone.Logging.Class</parameter>
+          </include>
+        </markup>
+      </summary>
+    </member>
+  </members>
+</doc>
